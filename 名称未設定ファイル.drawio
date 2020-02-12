@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-31T01:30:56.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="qOHzTbeiBuDiPbB1mpyd" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-12T00:52:54.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="cOrxK9qnad-2w-pjoh19" version="12.6.7" type="github">
   <diagram id="VrKD0ewOHlVVfgMDHuje" name="ページ1">
-    <mxGraphModel dx="1648" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -29,11 +29,11 @@
         <mxCell id="JIiG9f2djd5JSEeI8ZKf-2" value="企業グループ&lt;br&gt;管理画面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="240" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="JIiG9f2djd5JSEeI8ZKf-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="JIiG9f2djd5JSEeI8ZKf-3" target="JIiG9f2djd5JSEeI8ZKf-4" edge="1">
+        <mxCell id="JIiG9f2djd5JSEeI8ZKf-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="JIiG9f2djd5JSEeI8ZKf-3" target="JIiG9f2djd5JSEeI8ZKf-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="350"/>
-              <mxPoint x="330" y="350"/>
+              <mxPoint x="300" y="350"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -44,13 +44,17 @@
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JIiG9f2djd5JSEeI8ZKf-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="JIiG9f2djd5JSEeI8ZKf-35" edge="1">
+        <mxCell id="JIiG9f2djd5JSEeI8ZKf-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="JIiG9f2djd5JSEeI8ZKf-35" edge="1" source="JIiG9f2djd5JSEeI8ZKf-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="330" as="sourcePoint"/>
             <Array as="points">
-              <mxPoint x="460" y="330"/>
+              <mxPoint x="330" y="340"/>
+              <mxPoint x="460" y="340"/>
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5xNr5Emgi43Tvl490eg--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="JIiG9f2djd5JSEeI8ZKf-3" target="5xNr5Emgi43Tvl490eg--1">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="JIiG9f2djd5JSEeI8ZKf-3" value="棚卸表一覧&lt;br&gt;画面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="120" height="40" as="geometry"/>
@@ -108,7 +112,10 @@
         <mxCell id="JIiG9f2djd5JSEeI8ZKf-29" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="200" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="JIiG9f2djd5JSEeI8ZKf-35" value="ユーザー登録/編集&lt;br&gt;画面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5xNr5Emgi43Tvl490eg--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JIiG9f2djd5JSEeI8ZKf-35" target="5xNr5Emgi43Tvl490eg--3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="JIiG9f2djd5JSEeI8ZKf-35" value="ユーザー一覧&lt;br&gt;画面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="420" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="JIiG9f2djd5JSEeI8ZKf-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JIiG9f2djd5JSEeI8ZKf-38" target="JIiG9f2djd5JSEeI8ZKf-12" edge="1">
@@ -130,6 +137,15 @@
         </mxCell>
         <mxCell id="JIiG9f2djd5JSEeI8ZKf-44" value="ログアウト" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="80" y="680" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="5xNr5Emgi43Tvl490eg--1" value="グループ一覧&lt;br&gt;画面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="5xNr5Emgi43Tvl490eg--3" value="ユーザー登録/編集&lt;br&gt;画面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="5xNr5Emgi43Tvl490eg--6" value="グループ一覧&lt;br&gt;画面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="120" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
