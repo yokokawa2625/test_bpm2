@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T08:35:29.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="JBBMMhpZ0ipLlmkdeqWF" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-27T01:15:30.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="xql2VPCf_Sg6qF-ZgKrv" version="14.9.8" type="github">
   <diagram id="VrKD0ewOHlVVfgMDHuje" name="ページ1">
     <mxGraphModel dx="1117" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,15 +61,14 @@
         <mxCell id="5xNr5Emgi43Tvl490eg--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JIiG9f2djd5JSEeI8ZKf-3" target="5xNr5Emgi43Tvl490eg--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HAvZMv1LIubI1ggnkloS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JIiG9f2djd5JSEeI8ZKf-3">
+        <mxCell id="HAvZMv1LIubI1ggnkloS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JIiG9f2djd5JSEeI8ZKf-3" target="HAvZMv1LIubI1ggnkloS-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="640" as="targetPoint" />
             <Array as="points">
               <mxPoint x="40" y="340" />
               <mxPoint x="40" y="780" />
-              <mxPoint x="240" y="780" />
-              <mxPoint x="240" y="640" />
-              <mxPoint x="320" y="640" />
+              <mxPoint x="220" y="780" />
+              <mxPoint x="220" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -191,7 +190,7 @@
           <mxGeometry x="680" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HAvZMv1LIubI1ggnkloS-14" value="棚卸表&lt;br&gt;コピー機能" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="600" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="600" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
